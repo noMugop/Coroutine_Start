@@ -1,4 +1,4 @@
-package ru.sumin.coroutinestart
+package ru.nomugop.cryptoapp
 
 import org.junit.Test
 

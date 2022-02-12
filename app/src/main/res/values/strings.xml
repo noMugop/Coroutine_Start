@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coroutine Start</string>
+    <string name="app_name">CryptoApp</string>
     <string name="download">Download</string>
     <string name="city">City:</string>
     <string name="temperature">Temperature:</string>

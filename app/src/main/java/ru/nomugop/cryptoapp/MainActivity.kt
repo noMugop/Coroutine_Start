@@ -1,10 +1,10 @@
-package ru.sumin.coroutinestart
+package ru.nomugop.cryptoapp
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.isVisible
-import ru.sumin.coroutinestart.databinding.ActivityMainBinding
+import ru.nomugop.cryptoapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
